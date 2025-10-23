@@ -1,0 +1,44 @@
+/* Header */
+.header {
+    background: url("../images/header-image.jpg") no-repeat center center/cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 120px 0;
+}
+
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.header h2 {
+    font-size: 3.5rem;
+    font-weight: 400;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.header p {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.overlay {
+    background: rgba(0, 0, 128, 0.6);
+    display: inline-block;
+    padding: 20px 40px;
+    border-radius: 12px;
+}
+
+.fixed-table {
+    table-layout: fixed; /* mantiene proporciones */
+}
+
+.fixed-table th,
+.fixed-table td {
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden; /* evita desbordes */
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
