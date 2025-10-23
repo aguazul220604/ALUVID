@@ -103,7 +103,6 @@
       <img src="assets/img29.png" alt="Sales Audit 2">
     </div>
 
-<footer style="margin-top:18px;color:#6b7280;font-size:13px">Generated README — English (professional) • Screenshots arranged with responsive grid layout.</footer>
   </div>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
