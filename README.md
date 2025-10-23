@@ -1,3 +1,111 @@
+
+   <div class="container">
+    <h1>🪟 ALUVID — Quotation & Management System for Glassworks</h1>
+    <p class="lead">Built for <strong>ALUVID</strong>, a local glassworks (vidriería) in Ixmiquilpan, Hidalgo, Mexico. This system streamlines product catalog, quotations, stock management and sales reporting across three role-based panels: <em>Employee</em>, <em>Manager</em> (team manager), and <em>Administrator</em>.</p>
+
+<div class="badges">
+      <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel-red?logo=laravel" />
+      <img alt="MySQL" src="https://img.shields.io/badge/DB-MySQL-blue?logo=mysql" />
+      <img alt="PHP" src="https://img.shields.io/badge/Language-PHP-777bb4?logo=php" />
+      <img alt="Clean Architecture" src="https://img.shields.io/badge/Architecture-Clean--Architecture-yellowgreen" />
+    </div>
+
+<h2>✨ Highlights</h2>
+    <ul>
+      <li>Three role-based web panels: <strong>Employee</strong>, <strong>Manager</strong>, and <strong>Administrator</strong>. 🔐</li>
+      <li>Employee-facing product catalog (Aluminum, Hardware, Glass) and quotation generator. 🧾</li>
+      <li>Manager panel for user management, inventory control and sales management with daily/weekly/monthly reports. 📊</li>
+      <li>Administrator panel for high-level inventory and sales auditing. 🛠️ </li>
+      <li>DataTables integrated for fast, paginated, searchable tables. ⚡</li>
+      <li>Role-based authentication and authorization. 👥</li>
+      <li>Database normalized to store and manage 300+ products efficiently. 🗄️</li>
+    </ul>
+
+<h2>📣 Features by Panel (with Screenshots)</h2>
+
+<h3>Employee Panel</h3>
+    <ul>
+      <li>Company info + product browsing (categories: Aluminum, Hardware, Glass)</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img1.png" alt="Employee Panel - Company Info 1">
+      <img src="assets/img2.png" alt="Employee Panel - Company Info 2">
+      <img src="assets/img3.png" alt="Employee Panel - Company Info 3">
+      <img src="assets/img4.png" alt="Product Catalog 1">
+      <img src="assets/img5.png" alt="Product Catalog 2">
+    </div>
+    <ul>
+      <li>Quotation creation flow and cart management connected to current stock</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img6.png" alt="Quotation 1">
+      <img src="assets/img7.png" alt="Quotation 2">
+      <img src="assets/img8.png" alt="Quotation 3">
+      <img src="assets/img9.png" alt="Cart 1">
+      <img src="assets/img10.png" alt="Cart 2">
+      <img src="assets/img11.png" alt="Cart 3">
+      <img src="assets/img12.png" alt="Cart 4">
+    </div>
+
+ <h3>Manager Panel</h3>
+    <ul>
+      <li>Team login & dashboard</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img13.png" alt="Manager Login">
+      <img src="assets/img14.png" alt="Manager Dashboard">
+    </div>
+    <ul>
+      <li>User management</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img15.png" alt="User Management">
+    </div>
+    <ul>
+      <li>Inventory & stock adjustments</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img16.png" alt="Inventory 1">
+      <img src="assets/img17.png" alt="Inventory 2">
+      <img src="assets/img18.png" alt="Inventory 3">
+    </div>
+    <ul>
+      <li>Sales management + daily/weekly/monthly reports + edit past sales</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img19.png" alt="Sales 1">
+      <img src="assets/img20.png" alt="Sales 2">
+      <img src="assets/img21.png" alt="Sales 3">
+      <img src="assets/img22.png" alt="Sales 4">
+    </div>
+
+<h3>Administrator Panel</h3>
+    <ul>
+      <li>Admin dashboard</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img23.png" alt="Admin Dashboard">
+    </div>
+    <ul>
+      <li>Inventory queries & reports</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img24.png" alt="Admin Inventory 1">
+      <img src="assets/img25.png" alt="Admin Inventory 2">
+      <img src="assets/img26.png" alt="Admin Inventory 3">
+      <img src="assets/img27.png" alt="Admin Inventory 4">
+    </div>
+    <ul>
+      <li>Sales auditing & export</li>
+    </ul>
+    <div class="img-grid">
+      <img src="assets/img28.png" alt="Sales Audit 1">
+      <img src="assets/img29.png" alt="Sales Audit 2">
+    </div>
+
+<footer style="margin-top:18px;color:#6b7280;font-size:13px">Generated README — English (professional) • Screenshots arranged with responsive grid layout.</footer>
+  </div>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
