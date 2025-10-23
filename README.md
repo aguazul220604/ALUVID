@@ -21,7 +21,7 @@
       <li>Database normalized to store and manage 300+ products efficiently. 🗄️</li>
     </ul>
 
-<h2>📣 Features by Panel (with Screenshots)</h2>
+<h2>📣 Features by Panel</h2>
 
 <h3>Employee Panel</h3>
     <ul>
